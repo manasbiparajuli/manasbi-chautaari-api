@@ -1,0 +1,12 @@
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy:
+        ant_path_matcher
+
+swagger-api-info:
+  title: Manasbi Chautaari API
+  description: Manasbi Chautaari API Swagger Documentation
+  version: 1.0
+  contact-name: Manasbi Parajuli
+  contact-url: https://github.com/manasbiparajuli
