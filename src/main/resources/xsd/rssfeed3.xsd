@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<xs:schema elementFormDefault="qualified" targetNamespace="http://www.itunes.com/dtds/podcast-1.0.dtd"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="author" type="xs:string"/>
+    <xs:element name="summary" type="xs:string"/>
+    <xs:element name="type" type="xs:string"/>
+    <xs:element name="owner">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"/>
+                <xs:element name="email" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="explicit" type="xs:string"/>
+    <xs:element name="category">
+        <xs:complexType>
+            <xs:attribute name="text" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="image">
+        <xs:complexType>
+            <xs:attribute name="href" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="duration" type="xs:time"/>
+    <xs:element name="season" type="xs:unsignedByte"/>
+    <xs:element name="episode" type="xs:unsignedByte"/>
+    <xs:element name="episodeType" type="xs:string"/>
+</xs:schema>

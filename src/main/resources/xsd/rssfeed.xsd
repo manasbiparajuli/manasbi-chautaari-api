@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<xs:schema xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           elementFormDefault="qualified"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:import schemaLocation="rssfeed2.xsd" namespace="http://www.w3.org/2005/Atom"/>
+    <xs:import schemaLocation="rssfeed3.xsd" namespace="http://www.itunes.com/dtds/podcast-1.0.dtd"/>
+    <xs:import schemaLocation="rssfeed4.xsd" namespace="http://purl.org/dc/elements/1.1/"/>
+    <xs:element name="rss">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="channel">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:choice maxOccurs="unbounded">
+                                <xs:element name="title" type="xs:string"/>
+                                <xs:element name="description" type="xs:string"/>
+                                <xs:element name="link" type="xs:string"/>
+                                <xs:element name="image">
+                                    <xs:complexType>
+                                        <xs:sequence>
+                                            <xs:element name="url" type="xs:string"/>
+                                            <xs:element name="title" type="xs:string"/>
+                                            <xs:element name="link" type="xs:string"/>
+                                        </xs:sequence>
+                                    </xs:complexType>
+                                </xs:element>
+                                <xs:element name="generator" type="xs:string"/>
+                                <xs:element name="lastBuildDate" type="xs:string"/>
+                                <xs:element ref="atom:link"/>
+                                <xs:element name="author" type="xs:string"/>
+                                <xs:element name="copyright" type="xs:string"/>
+                                <xs:element name="language" type="xs:string"/>
+                                <xs:element ref="itunes:author"/>
+                                <xs:element ref="itunes:summary"/>
+                                <xs:element ref="itunes:type"/>
+                                <xs:element ref="itunes:owner"/>
+                                <xs:element ref="itunes:explicit"/>
+                                <xs:element ref="itunes:category"/>
+                                <xs:element ref="itunes:image"/>
+                                <xs:element name="item">
+                                    <xs:complexType>
+                                        <xs:sequence>
+                                            <xs:element name="title" type="xs:string"/>
+                                            <xs:element name="description" type="xs:string"/>
+                                            <xs:element name="link" type="xs:string"/>
+                                            <xs:element name="guid">
+                                                <xs:complexType>
+                                                    <xs:simpleContent>
+                                                        <xs:extension base="xs:string">
+                                                            <xs:attribute name="isPermaLink" type="xs:boolean"
+                                                                          use="required"/>
+                                                        </xs:extension>
+                                                    </xs:simpleContent>
+                                                </xs:complexType>
+                                            </xs:element>
+                                            <xs:element ref="dc:creator"/>
+                                            <xs:element name="pubDate" type="xs:string"/>
+                                            <xs:element name="enclosure">
+                                                <xs:complexType>
+                                                    <xs:attribute name="url" type="xs:string" use="required"/>
+                                                    <xs:attribute name="length" type="xs:unsignedInt" use="required"/>
+                                                    <xs:attribute name="type" type="xs:string" use="required"/>
+                                                </xs:complexType>
+                                            </xs:element>
+                                            <xs:element ref="itunes:summary"/>
+                                            <xs:element ref="itunes:explicit"/>
+                                            <xs:element ref="itunes:duration"/>
+                                            <xs:element ref="itunes:image"/>
+                                            <xs:element ref="itunes:season"/>
+                                            <xs:element ref="itunes:episode"/>
+                                            <xs:element ref="itunes:episodeType"/>
+                                        </xs:sequence>
+                                    </xs:complexType>
+                                </xs:element>
+                            </xs:choice>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute name="version" type="xs:decimal" use="required"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
