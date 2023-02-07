@@ -2,6 +2,7 @@ package com.manasbi.service;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.core.io.ClassPathResource;
+import org.springframework.stereotype.Service;
 import org.springframework.util.FileCopyUtils;
 
 import java.io.BufferedReader;
@@ -12,6 +13,7 @@ import java.net.URL;
 import java.nio.charset.StandardCharsets;
 
 @Slf4j
+@Service("convertRssToXml")
 public class ConvertRssToXml {
 
   private static final String MANASBI_CHAUTAARI_RSS_FEED_URL =
@@ -19,7 +21,7 @@ public class ConvertRssToXml {
 
   private ConvertRssToXml() {}
 
-  private void convertRssStringFeedToXML() throws IOException {
+  public void convertRssStringFeedToXML() throws IOException {
     URL url = new URL(MANASBI_CHAUTAARI_RSS_FEED_URL);
 
     try (BufferedReader br = new BufferedReader(new InputStreamReader(url.openStream()))) {
@@ -30,14 +32,16 @@ public class ConvertRssToXml {
     }
   }
 
-  private void readXmlContentFromTextFile() throws IOException {
+  public String readXmlContentFromTextFile() throws IOException {
+    String xmlOutput;
     try (InputStream input = new ClassPathResource("rssfeed.txt").getInputStream()) {
       byte[] dataAsBytes = FileCopyUtils.copyToByteArray(input);
-      log.info(new String(dataAsBytes, StandardCharsets.UTF_8));
+      xmlOutput = new String(dataAsBytes, StandardCharsets.UTF_8);
 
     } catch (Exception e) {
       log.error("Error reading RSS Feed {}", e.getMessage());
       throw e;
     }
+    return xmlOutput;
   }
 }
