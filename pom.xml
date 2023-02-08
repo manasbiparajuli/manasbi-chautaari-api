@@ -23,7 +23,7 @@
         <jaxb-core.version>4.0.1</jaxb-core.version>
         <jaxb-impl.version>4.0.0</jaxb-impl.version>
         <jaxb-osgi.version>4.0.1</jaxb-osgi.version>
-        <lombok.version>1.18.24</lombok.version>
+        <lombok.version>1.18.26</lombok.version>
         <maven-jaxb2-plugin.version>0.15.1</maven-jaxb2-plugin.version>
         <maven.compiler.source>19</maven.compiler.source>
         <maven.compiler.target>19</maven.compiler.target>
