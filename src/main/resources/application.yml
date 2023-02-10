@@ -10,3 +10,7 @@ swagger-api-info:
   version: 1.0
   contact-name: Manasbi Parajuli
   contact-url: https://github.com/manasbiparajuli
+
+server:
+  error:
+    include-message: always

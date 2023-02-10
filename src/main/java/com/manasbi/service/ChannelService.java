@@ -4,19 +4,15 @@ import com.manasbi.date.ZonedDateTimeService;
 import com.manasbi.model.Channel;
 import com.manasbi.model.Image;
 import com.manasbi.parser.ParseAnchorRssFeed;
+import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
-import javax.inject.Inject;
 import java.time.ZonedDateTime;
 
 @Service("channelService")
+@RequiredArgsConstructor
 public class ChannelService {
   private final ParseAnchorRssFeed parseAnchorRssFeed;
-
-  @Inject
-  public ChannelService(ParseAnchorRssFeed parseAnchorRssFeed) {
-    this.parseAnchorRssFeed = parseAnchorRssFeed;
-  }
 
   public Channel getChannelFromRssFeed() {
     parseAnchorRssFeed.setRssTagFromRSSXmlFeedAfterUnmarshalling();

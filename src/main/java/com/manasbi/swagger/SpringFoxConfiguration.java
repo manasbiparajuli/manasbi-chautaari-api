@@ -1,6 +1,7 @@
 package com.manasbi.swagger;
 
 import com.manasbi.yml.SwaggerApiInfoProperties;
+import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import springfox.documentation.builders.ApiInfoBuilder;
@@ -12,18 +13,12 @@ import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
-import javax.inject.Inject;
-
 @Configuration
 @EnableSwagger2
+@RequiredArgsConstructor
 public class SpringFoxConfiguration {
 
   private final SwaggerApiInfoProperties swaggerApiInfoProperties;
-
-  @Inject
-  public SpringFoxConfiguration(SwaggerApiInfoProperties swaggerApiInfoProperties) {
-    this.swaggerApiInfoProperties = swaggerApiInfoProperties;
-  }
 
   @Bean
   public Docket api() {
