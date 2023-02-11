@@ -10,6 +10,6 @@ public class RedirectController {
   @GetMapping(path = "/")
   public ModelAndView redirectToSwaggerHomePage(ModelMap modelMap) {
     modelMap.addAttribute("attribute", "/");
-    return new ModelAndView("redirect:/swagger-ui/index.html");
+    return new ModelAndView("redirect:/api/v1/swagger-ui.html");
   }
 }

@@ -1,9 +1,3 @@
-spring:
-  mvc:
-    pathmatch:
-      matching-strategy:
-        ant_path_matcher
-
 swagger-api-info:
   title: Manasbi Chautaari API
   description: Manasbi Chautaari API Swagger Documentation
@@ -17,3 +11,13 @@ server:
     whitelabel:
       enabled: false
     path: /error
+
+springdoc:
+  packages-to-scan: com.manasbi.controller
+  paths-to-match: /api/v1/**, /actuator/**
+  swagger-ui:
+    operations-sorter: alpha
+    tags-sorter: alpha
+    supported-submit-methods: get
+    enabled: true
+    path: /api/v1/swagger-ui.html
