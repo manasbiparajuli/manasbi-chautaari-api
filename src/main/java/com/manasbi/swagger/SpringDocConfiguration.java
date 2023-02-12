@@ -20,13 +20,7 @@ public class SpringDocConfiguration {
     return GroupedOpenApi.builder()
         .group("manasbi-chautaari-public-apis")
         .pathsToMatch("/api/**")
-        .pathsToExclude("/actuator/**")
         .build();
-  }
-
-  @Bean
-  public GroupedOpenApi actuatorApi() {
-    return GroupedOpenApi.builder().group("actuators").pathsToMatch("/actuator/**").build();
   }
 
   @Bean

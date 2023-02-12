@@ -1,7 +1,7 @@
 swagger-api-info:
   title: Manasbi Chautaari API
   description: Manasbi Chautaari API Swagger Documentation
-  version: 1.0
+  version: 0.0.1
   contact-name: Manasbi Parajuli
   contact-url: https://github.com/manasbiparajuli
 
@@ -13,11 +13,30 @@ server:
     path: /error
 
 springdoc:
-  packages-to-scan: com.manasbi.controller
+  packages-to-scan: com.manasbi
   paths-to-match: /api/v1/**, /actuator/**
   swagger-ui:
     operations-sorter: alpha
-    tags-sorter: alpha
     supported-submit-methods: get
     enabled: true
     path: /api/v1/swagger-ui.html
+  show-actuator: true
+  writer-with-default-pretty-printer: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health, info
+  info:
+    env:
+      enabled: true
+    git:
+      enabled: true
+      mode: simple
+
+info:
+  application:
+    name: ${swagger-api-info.title}
+    description: Exposes the REST endpoints for the podcast API
+    version: 1.0.0

@@ -27,7 +27,7 @@ import java.util.List;
 public class PodcastContentController {
   private final ParseAnchorRssFeed parseAnchorRssFeed;
 
-  @Operation(summary = "Gets details about the podcast channel")
+  @Operation(summary = "Gets details about the podcast channel", operationId = "getPodcastChannel")
   @ApiResponses(
       value = {
         @ApiResponse(
@@ -56,7 +56,9 @@ public class PodcastContentController {
     }
   }
 
-  @Operation(summary = "Gets details about the podcast episodes")
+  @Operation(
+      summary = "Gets details about the podcast episodes",
+      operationId = "getPodcastEpisodes")
   @ApiResponses(
       value = {
         @ApiResponse(
