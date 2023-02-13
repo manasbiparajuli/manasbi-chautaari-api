@@ -201,6 +201,7 @@
                     <propertiesEncoding>UTF-8</propertiesEncoding>
                     <nonFilteredFileExtensions>
                         <nonFilteredFileExtension>jpeg</nonFilteredFileExtension>
+                        <nonFilteredFileExtension>jpg</nonFilteredFileExtension>
                     </nonFilteredFileExtensions>
                 </configuration>
             </plugin>
