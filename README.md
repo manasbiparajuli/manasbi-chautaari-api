@@ -16,7 +16,7 @@ The application exposes two endpoints defined in
 
 To run this project, pass the following environment variables
 
-- `spring.config.activate.on-profile` : valid values are dev, local, prod
+- `spring.profiles.active` : valid values are dev, local, prod
 
 ## Run Locally
 
@@ -100,4 +100,4 @@ Please adhere to this project's [code of conduct](CODE_OF_CONDUCT.md).
 
 If you have any feedback, please open a GitHub issue and I will respond to it.
 
-![Manasbi Chautaari Logo](src/main/resources/manasbi-chautaari-logo.jpeg)
+![Manasbi Chautaari Logo](src/main/resources-nonfiltered/manasbi-chautaari-logo.jpeg)
