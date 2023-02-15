@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.manasbi.ManasbiChautaariApiApplicationClass
+web: java $JAVA_OPTS -Dspring.profiles.active=prod -Dserver.port=$PORT -cp target/classes:target/dependency/* com.manasbi.ManasbiChautaariApiApplicationClass
