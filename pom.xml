@@ -227,6 +227,7 @@
                     <generatePackage>com.manasbi</generatePackage>
                     <schemaDirectory>${project.basedir}/src/main/resources/xsd</schemaDirectory>
                     <generateDirectory>${project.build.directory}/generated-sources/src/main/java</generateDirectory>
+                    <episode>false</episode>
                 </configuration>
             </plugin>
             <plugin>
