@@ -13,13 +13,12 @@ import com.manasbi.model.Episode;
 import com.manasbi.model.EpisodeGuid;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBElement;
 import javax.xml.bind.Unmarshaller;
-import java.io.InputStream;
+import java.net.URL;
 import java.time.ZonedDateTime;
 import java.util.ArrayList;
 import java.util.List;
@@ -38,13 +37,11 @@ public class ParseAnchorRssFeed {
 
   @SneakyThrows
   public void setRssTagFromRSSXmlFeedAfterUnmarshalling() {
-    InputStream input = new ClassPathResource("rssfeed.txt").getInputStream();
     Unmarshaller unmarshaller =
         JAXBContext.newInstance(Rss.class, ObjectFactory.class).createUnmarshaller();
-    rssXmlTag = (Rss) unmarshaller.unmarshal(input);
 
     // create unmarshaller from RSS Feed
-    // rssXmlTag = (Rss) unmarshaller.unmarshal(new URL(MANASBI_CHAUTAARI_RSS_FEED_URL));
+    rssXmlTag = (Rss) unmarshaller.unmarshal(new URL(MANASBI_CHAUTAARI_RSS_FEED_URL));
   }
 
   @SneakyThrows
