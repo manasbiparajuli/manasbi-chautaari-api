@@ -200,7 +200,6 @@ public class ParseAnchorRssFeed {
                 item.getValue().getEpisode(),
                 item.getValue().getEpisodeType());
 
-        assert false;
         episodeList.add(episode);
       }
     } catch (Exception ex) {

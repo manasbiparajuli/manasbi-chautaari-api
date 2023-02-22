@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Manasbi Chautaari]]></title>
+		<description><![CDATA[Welcome to the podcast that brings in Nepali people with different interests, careers, and philosophies. I delve deep into the guest's minds to explore how what and why of any topics I discuss. The podcast will be available weekly in the Nepali language. ]]></description>
+		<link>https://manasbichautaari.wordpress.com/</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2638102/2638102-1573967844417-28d79b44e04c2.jpg</url>
+			<title>Manasbi Chautaari</title>
+			<link>https://manasbichautaari.wordpress.com/</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Thu, 22 Dec 2022 13:57:32 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/10520318/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Manasbi Parajuli]]></author>
+		<copyright><![CDATA[Manasbi Parajuli]]></copyright>
+		<language><![CDATA[ne]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Manasbi Parajuli</itunes:author>
+		<itunes:summary>Welcome to the podcast that brings in Nepali people with different interests, careers, and philosophies. I delve deep into the guest&apos;s minds to explore how what and why of any topics I discuss. The podcast will be available weekly in the Nepali language. </itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Manasbi Parajuli</itunes:name>
+			<itunes:email>manasbiarsenal@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Society &amp; Culture"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2638102/2638102-1573967844417-28d79b44e04c2.jpg"/>
+		<item>
+			<title><![CDATA[Episode 18: Fantasy Premier League Tips And Tricks From the Special One With Global Rank 27233]]></title>
+			<description><![CDATA[<p>Shitosh Parajuli joins from Seattle, WA, USA, to talk about his sudden rise from a global rank of 253407 to 27233 over the last two seasons in the most popular Fantasy Premier League. FPL is an online drafting game from the English Premier League that casts fans as Fantasy managers of Premier League players. Managers then pick a squad of 15 players with a budget of £100m who score points for the team based on their real-life performances in the Premier League. On average, there are 9 million players who register for the FPL.</p>
+<p>In this episode, Shitosh shares lessons he learned in the last 1.5 years to experiment in the 2021/22 season that saw him finish 27233. The self-proclaimed “special one” FPL manager debunks common pitfalls that average FPL managers fall into when drafting their teams and suggests new trips, tricks, and tools that can take them to the next level in the leagues within their circles. At the end of the episode, Shitosh also reveals his FPL team for Gameweek 1.</p>
+<p>Shitosh’s Previous Seasons: <a href="https://fantasy.premierleague.com/entry/156118/history">https://fantasy.premierleague.com/entry/156118/history</a></p>
+<p><strong>Resources mentioned in the episode:</strong></p>
+<p>Twitter: @BenCrellin (<a href="https://twitter.com/bencrellin">https://twitter.com/bencrellin</a>)</p>
+<p>Price Change Predictor: <a href="http://www.fplstatistics.co.uk/Home/IndexAndroid">http://www.fplstatistics.co.uk/Home/IndexAndroid</a></p>
+<p>FPL Team Planner: <a href="https://fpl.team/">https://fpl.team</a></p>
+<p>Let’s Talk FPL YT Channel: <a href="https://www.youtube.com/c/LetsTalkFPL">https://www.youtube.com/c/LetsTalkFPL</a></p>
+<p><strong>Disclaimer:</strong> Manasbi Chautaari is not affiliated with any of the links above, which are mentioned for informational purposes.</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-18-Fantasy-Premier-League-Tips-And-Tricks-From-the-Special-One-With-Global-Rank-27233-e1m14ie</link>
+			<guid isPermaLink="false">a345896f-60ca-4ece-b84b-a8fd5c1533c5</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Tue, 02 Aug 2022 21:49:21 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/55660558/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-2%2F263e2a0e-4b46-955d-82f3-d7fbfe7d284b.mp3" length="145474977" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Shitosh Parajuli joins from Seattle, WA, USA, to talk about his sudden rise from a global rank of 253407 to 27233 over the last two seasons in the most popular Fantasy Premier League. FPL is an online drafting game from the English Premier League that casts fans as Fantasy managers of Premier League players. Managers then pick a squad of 15 players with a budget of £100m who score points for the team based on their real-life performances in the Premier League. On average, there are 9 million players who register for the FPL.&lt;/p&gt;
+&lt;p&gt;In this episode, Shitosh shares lessons he learned in the last 1.5 years to experiment in the 2021/22 season that saw him finish 27233. The self-proclaimed “special one” FPL manager debunks common pitfalls that average FPL managers fall into when drafting their teams and suggests new trips, tricks, and tools that can take them to the next level in the leagues within their circles. At the end of the episode, Shitosh also reveals his FPL team for Gameweek 1.&lt;/p&gt;
+&lt;p&gt;Shitosh’s Previous Seasons: &lt;a href=&quot;https://fantasy.premierleague.com/entry/156118/history&quot;&gt;https://fantasy.premierleague.com/entry/156118/history&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Resources mentioned in the episode:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Twitter: @BenCrellin (&lt;a href=&quot;https://twitter.com/bencrellin&quot;&gt;https://twitter.com/bencrellin&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Price Change Predictor: &lt;a href=&quot;http://www.fplstatistics.co.uk/Home/IndexAndroid&quot;&gt;http://www.fplstatistics.co.uk/Home/IndexAndroid&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;FPL Team Planner: &lt;a href=&quot;https://fpl.team/&quot;&gt;https://fpl.team&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Let’s Talk FPL YT Channel: &lt;a href=&quot;https://www.youtube.com/c/LetsTalkFPL&quot;&gt;https://www.youtube.com/c/LetsTalkFPL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; Manasbi Chautaari is not affiliated with any of the links above, which are mentioned for informational purposes.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:00:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2638102/2638102-1573967844417-28d79b44e04c2.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 17: Growing Up As A Woman In A Patriarchal Society]]></title>
+			<description><![CDATA[<p>Manisha Lamsal didi joins from Kathmandu, Nepal, to talk about the experiences of growing up as a woman in a patriarchal and misogynistic Nepali society. Manisha didi is currently involved in research about hair and its social aspects. A mother of three years old, Manisha didi starts her conversation by going over her story of intercaste marriage. We discuss the many subtle differences we can find between a boy and a girl growing up in the same home and how that affects the social dynamics of all our relationships. <strong>The differences cover cultural norms that elders force on their daughters because 20-25 years from now, after marriage, they will be representing their family values to in-laws and hence need to compromise on many things.</strong> We also cover the culture of tagging household chores to gender and dismantle the idea that men “help” and women “are responsible.” We also go over how our society has masked the notion that festivals are for celebrations when most of the time, only males relax by playing cards. In contrast, women are expected to be in the kitchen all day to prepare a large variety of dishes.</p>
+<p>Towards the end, we discuss and provide ideas to start unlearning the biases and misogynistic ideals we have unknowingly practiced. Manisha didi shares how she has been raising her daughter as well. We also briefly discuss the legal aspects of gender discrimination and why the legal jargon and clauses have made it difficult for women to speak up about their experiences.</p>
+<p><strong>If you like the episode, please share it on social media for more exposure and elaborate discussions. Also, subscribe or follow Manasbi Chautaari on your favorite podcast platform to get notifications about new episodes. I would also appreciate it if you could leave reviews about the show.</strong></p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-17-Growing-Up-As-A-Woman-In-A-Patriarchal-Society-e1k0avg</link>
+			<guid isPermaLink="false">35f9438c-9be9-4883-9fac-12c7a747e100</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Wed, 15 Jun 2022 18:21:05 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/53537200/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-15%2F47729e0f-517e-cdab-93a5-7f9809b3aa1d.mp3" length="197578791" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Manisha Lamsal didi joins from Kathmandu, Nepal, to talk about the experiences of growing up as a woman in a patriarchal and misogynistic Nepali society. Manisha didi is currently involved in research about hair and its social aspects. A mother of three years old, Manisha didi starts her conversation by going over her story of intercaste marriage. We discuss the many subtle differences we can find between a boy and a girl growing up in the same home and how that affects the social dynamics of all our relationships. &lt;strong&gt;The differences cover cultural norms that elders force on their daughters because 20-25 years from now, after marriage, they will be representing their family values to in-laws and hence need to compromise on many things.&lt;/strong&gt; We also cover the culture of tagging household chores to gender and dismantle the idea that men “help” and women “are responsible.” We also go over how our society has masked the notion that festivals are for celebrations when most of the time, only males relax by playing cards. In contrast, women are expected to be in the kitchen all day to prepare a large variety of dishes.&lt;/p&gt;
+&lt;p&gt;Towards the end, we discuss and provide ideas to start unlearning the biases and misogynistic ideals we have unknowingly practiced. Manisha didi shares how she has been raising her daughter as well. We also briefly discuss the legal aspects of gender discrimination and why the legal jargon and clauses have made it difficult for women to speak up about their experiences.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you like the episode, please share it on social media for more exposure and elaborate discussions. Also, subscribe or follow Manasbi Chautaari on your favorite podcast platform to get notifications about new episodes. I would also appreciate it if you could leave reviews about the show.&lt;/strong&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:22:19</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2638102/2638102-1573967843109-5aab8f2cc7049.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 16: Financial Literacy And The Power Of Compound Interest]]></title>
+			<description><![CDATA[<p>My college friend Prateek Gautam joins from New Jersey, USA, to talk about Financial Literacy. Prateek is a high school teacher specializing in Mathematics and Computer Science in NJ. Also, he has opened Zest Wealth Management Private Limited in Nagarjun Municipality in Kathmandu, which manages funds to ensure higher ROI through diversified investments across the Nepalese market. In the episode, we cover money topics such as investing, budgeting, clearing debts, and saving money which is crucial for financial independence. Prateek shares his experiences with financial literacy, opens up about his multiple sources of income, and provides invaluable tips for managing and increasing money with the power of Compound Interest.&nbsp;</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-16-Financial-Literacy-And-The-Power-Of-Compound-Interest-e1jjt8f</link>
+			<guid isPermaLink="false">661d2d2a-a3d9-4637-bcfc-2e3baae66a41</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Tue, 07 Jun 2022 04:51:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/53129935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-7%2F71d6eba1-2370-ad4a-2f48-2da7c2f1ff69.mp3" length="164158772" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;My college friend Prateek Gautam joins from New Jersey, USA, to talk about Financial Literacy. Prateek is a high school teacher specializing in Mathematics and Computer Science in NJ. Also, he has opened Zest Wealth Management Private Limited in Nagarjun Municipality in Kathmandu, which manages funds to ensure higher ROI through diversified investments across the Nepalese market. In the episode, we cover money topics such as investing, budgeting, clearing debts, and saving money which is crucial for financial independence. Prateek shares his experiences with financial literacy, opens up about his multiple sources of income, and provides invaluable tips for managing and increasing money with the power of Compound Interest.&amp;nbsp;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:08:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2638102/2638102-1573967843109-5aab8f2cc7049.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 15: Casteism: Millennial's Perspective On Intercaste Marriage In Nepal]]></title>
+			<description><![CDATA[<p>In the first-ever episode with two guests in my show, I am joined by my school friends whom I have known since 2004. From NYC, US, Nima Lama is a recent college graduate in Computer Science. He is currently working on projects to expand online education and virtual health care, starting from Kalikasthan in his home district, Rasuwa, and eventually throughout Nepal. Nripesh Pradhan, from California, US, is a Data Scientist at Chipper focusing on solving problems related to growth and fraud in the fintech industry.</p>
+<p>In this episode, which some people might find sensitive and controversial, <strong>we provide our Millennial's perspective on one of many aspects of Casteism in Nepal: </strong><u><strong>Intercaste Marriage</strong></u>. We wanted to focus strictly on just one aspect of Casteism as it is impossible to fit all of them in a tiny episode.</p>
+<p>As millennials who studied in Nepal until high school and then pursued their bachelor's degrees in the USA, we share why Intercaste Marriage should be a thing of the past and how we should start making changes starting from our family. <strong>We suggest listening to the entire episode with an open mind.</strong></p>
+<p>Nima and Nripesh also touch on the negotiation tactics used by parents to force same caste marriage. Also, we unravel the pressure children fall to respect their parents' decisions <em>because going against the decisions is tantamount to discrediting parents' struggles to raise the children, even if the educated children have written hundreds of essays in their Social Science classes refuting the practice of Casteism</em>.</p>
+<p>In the latter part of the show, we touch on the ramifications of leaving out surnames that our alma mater Budhanilkantha School has been practicing since its inception in 1972. Although the school had the good intention of enforcing only roll numbers and first names to address among students, we wonder if the school could have included full names and made us more ready to tackle Casteism head-on. After all, the school is a perfect understudy of how discrimination can be eradicated with its mini Nepal model as students from various backgrounds study here.</p>
+<p>For the older generation harvesting the thoughts about putting same caste marriage demands on their children and criticizing discussions from newer generations in the name of culture and tradition, I suggest listening to our opinions with an open mind. If you strongly feel that these three folks living in the US are far from the reality of not respecting traditions and want to share your opinions in my podcast, please reach out to me. I would love that.</p>
+<p><strong>As a disclaimer</strong>, we foresee the shortcomings of the opinions presented by the guests in this episode where all three people have not experienced Casteism issues and mostly deducing their thoughts from their exposure to critical thinking. We have accepted the fact, and hence, I plan to bring in guests who have experienced discrimination in future episodes.</p>
+<p>I intended the episode to be a starting point to continue the conversation and make rational decisions for a better future where people's hard work and struggles from all backgrounds are not discredited solely by their so-called "castes." Also, in this ever-evolving social network world, I did not want to limit the conversations to purely online chat groups among just a few friends. Instead, I invited my friends and used my podcast platform to spark meaningful discussions and eventually take action to make changes.</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-15-Casteism-Millennials-Perspective-On-Intercaste-Marriage-In-Nepal-e1jbdgi</link>
+			<guid isPermaLink="false">3c17c84e-0d19-48bf-bfa0-0a056029502b</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Wed, 01 Jun 2022 01:06:31 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/52851666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-1%2F8e6d7476-c31d-1a4d-e89d-bb141bbf20a0.mp3" length="147709875" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In the first-ever episode with two guests in my show, I am joined by my school friends whom I have known since 2004. From NYC, US, Nima Lama is a recent college graduate in Computer Science. He is currently working on projects to expand online education and virtual health care, starting from Kalikasthan in his home district, Rasuwa, and eventually throughout Nepal. Nripesh Pradhan, from California, US, is a Data Scientist at Chipper focusing on solving problems related to growth and fraud in the fintech industry.&lt;/p&gt;
+&lt;p&gt;In this episode, which some people might find sensitive and controversial, &lt;strong&gt;we provide our Millennial&apos;s perspective on one of many aspects of Casteism in Nepal: &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;Intercaste Marriage&lt;/strong&gt;&lt;/u&gt;. We wanted to focus strictly on just one aspect of Casteism as it is impossible to fit all of them in a tiny episode.&lt;/p&gt;
+&lt;p&gt;As millennials who studied in Nepal until high school and then pursued their bachelor&apos;s degrees in the USA, we share why Intercaste Marriage should be a thing of the past and how we should start making changes starting from our family. &lt;strong&gt;We suggest listening to the entire episode with an open mind.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nima and Nripesh also touch on the negotiation tactics used by parents to force same caste marriage. Also, we unravel the pressure children fall to respect their parents&apos; decisions &lt;em&gt;because going against the decisions is tantamount to discrediting parents&apos; struggles to raise the children, even if the educated children have written hundreds of essays in their Social Science classes refuting the practice of Casteism&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In the latter part of the show, we touch on the ramifications of leaving out surnames that our alma mater Budhanilkantha School has been practicing since its inception in 1972. Although the school had the good intention of enforcing only roll numbers and first names to address among students, we wonder if the school could have included full names and made us more ready to tackle Casteism head-on. After all, the school is a perfect understudy of how discrimination can be eradicated with its mini Nepal model as students from various backgrounds study here.&lt;/p&gt;
+&lt;p&gt;For the older generation harvesting the thoughts about putting same caste marriage demands on their children and criticizing discussions from newer generations in the name of culture and tradition, I suggest listening to our opinions with an open mind. If you strongly feel that these three folks living in the US are far from the reality of not respecting traditions and want to share your opinions in my podcast, please reach out to me. I would love that.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;As a disclaimer&lt;/strong&gt;, we foresee the shortcomings of the opinions presented by the guests in this episode where all three people have not experienced Casteism issues and mostly deducing their thoughts from their exposure to critical thinking. We have accepted the fact, and hence, I plan to bring in guests who have experienced discrimination in future episodes.&lt;/p&gt;
+&lt;p&gt;I intended the episode to be a starting point to continue the conversation and make rational decisions for a better future where people&apos;s hard work and struggles from all backgrounds are not discredited solely by their so-called &quot;castes.&quot; Also, in this ever-evolving social network world, I did not want to limit the conversations to purely online chat groups among just a few friends. Instead, I invited my friends and used my podcast platform to spark meaningful discussions and eventually take action to make changes.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:01:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2638102/2638102-1573967843109-5aab8f2cc7049.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 14: A Ten Year Old's Journey For Education From Mugu to Kathmandu in 1983]]></title>
+			<description><![CDATA[<p>Today, I am joined by my Health and Physical Education teacher, Mr. Mohan Karki, and an alumnus of my alma mater Budhanilkantha School. Mohan sir takes a trip down the memory lane from 1983 when he first sat for entrance exams for Grade 4 to Budhanilkantha School. Born in Lui village in Mugu District, Mohan sir details his childhood. He elaborates on the arduous journey and challenges he took from his rural village to study at Budhanilkantha School, Kathmandu, Nepal. We discuss language barriers to learning due to differences between Khas, a predominantly spoken language in the Karnali zone, and Nepali, the language spoken at the school, and how Mohan sir navigated through them with hard work and perseverance.</p>
+<p>In the latter half of the show, Mohan sir elaborates on teaching philosophies he has preached over his 33 years long career. He shares the differences he has noticed in teaching from earlier decades and touches on the digital transformation he had to adjust when the pandemic affected the education of students.</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-14-A-Ten-Year-Olds-Journey-For-Education-From-Mugu-to-Kathmandu-in-1983-e1ipm74</link>
+			<guid isPermaLink="false">3985f2e3-9cb2-49e4-a06f-48dd015c5bc5</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Fri, 20 May 2022 00:40:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/52270756/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-20%2Ffbb2a85a-cbf1-c604-d703-095a8695bd75.mp3" length="162246484" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Today, I am joined by my Health and Physical Education teacher, Mr. Mohan Karki, and an alumnus of my alma mater Budhanilkantha School. Mohan sir takes a trip down the memory lane from 1983 when he first sat for entrance exams for Grade 4 to Budhanilkantha School. Born in Lui village in Mugu District, Mohan sir details his childhood. He elaborates on the arduous journey and challenges he took from his rural village to study at Budhanilkantha School, Kathmandu, Nepal. We discuss language barriers to learning due to differences between Khas, a predominantly spoken language in the Karnali zone, and Nepali, the language spoken at the school, and how Mohan sir navigated through them with hard work and perseverance.&lt;/p&gt;
+&lt;p&gt;In the latter half of the show, Mohan sir elaborates on teaching philosophies he has preached over his 33 years long career. He shares the differences he has noticed in teaching from earlier decades and touches on the digital transformation he had to adjust when the pandemic affected the education of students.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:07:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2638102/2638102-1573967843109-5aab8f2cc7049.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 13: Art of Running And The Dreaded Consistency Problem]]></title>
+			<description><![CDATA[<p>Chemical Engineer Aadarsh Jung Shah joins from Philadelphia, PA, USA, to cover his love for running, one of his favorite things that he does daily. We talk about many nuances of running, the preparations for his upcoming Philadelphia marathon, and how in 2020, Aadarsh defeated the evil villain Consistency to form a habit that continues to this day. We also share tips and tricks to start your running adventure and motivations for staying consistent. After all, we all had tried running but gave up on it when the weather was bad one day. Also, we share an experience in our friend circle about a $100 bet that involves running, providing you with a proven way to run every day.</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-13-Art-of-Running-And-The-Dreaded-Consistency-Problem-e1ifdj8</link>
+			<guid isPermaLink="false">a5443d70-e565-4241-8838-4b0eec3df85d</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Fri, 13 May 2022 04:27:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/51934248/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-13%2F45dc5e78-6319-51f4-b397-9ac41da099f3.mp3" length="136615827" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Chemical Engineer Aadarsh Jung Shah joins from Philadelphia, PA, USA, to cover his love for running, one of his favorite things that he does daily. We talk about many nuances of running, the preparations for his upcoming Philadelphia marathon, and how in 2020, Aadarsh defeated the evil villain Consistency to form a habit that continues to this day. We also share tips and tricks to start your running adventure and motivations for staying consistent. After all, we all had tried running but gave up on it when the weather was bad one day. Also, we share an experience in our friend circle about a $100 bet that involves running, providing you with a proven way to run every day.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:56:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2638102/2638102-1573967843109-5aab8f2cc7049.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 12: Ph.D. Life In General and Why You Should Avoid Asking Students How Many Years They Have Left In Their Ph.D.]]></title>
+			<description><![CDATA[<p>First-Year Ph.D. student Rojina Shrestha joins from Fort Collins, CO, USA, to discuss her experiences pursuing a Ph.D. in Cell and Molecular Biology. The episode extensively covers how Ph.D. students spend their lives daily, the stress around striving to publish their research papers eventually, and the burning question of how many hours of sleep students usually get. Rojina also somewhat tries to answer the question, "How many years are left to complete your Ph.D.?" a question that I discovered Ph.D. students pray nobody asks them. Additionally, we go over the existing belief of "Publish or Perish" in academia and its impact on academic integrity in the long run.<br>
+&nbsp;</p>
+<p>---------------------------------------</p>
+<p><strong><br>
+Host Update:</strong> A month after recording the episode, Rojina Shrestha met a tragic and untimely demise in a plane crash when she was visiting Nepal during the summer break. I was fortunate to record the episode and hope her cheerful voice provides solace to all listeners who knew her closely. We would never have felt ready to say goodbye to someone as special as Rojina, but this timing feels especially tough.</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-12-Ph-D--Life-In-General-and-Why-You-Should-Avoid-Asking-Students-How-Many-Years-They-Have-Left-In-Their-Ph-D-e1i3lfm</link>
+			<guid isPermaLink="false">d9fa3b99-4142-4fcd-9f7f-9cfd1af86ac9</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Thu, 05 May 2022 05:34:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/51549110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-5%2F7f45cbc8-a9e6-a70b-a906-9bf34b986cb6.mp3" length="148055182" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;First-Year Ph.D. student Rojina Shrestha joins from Fort Collins, CO, USA, to discuss her experiences pursuing a Ph.D. in Cell and Molecular Biology. The episode extensively covers how Ph.D. students spend their lives daily, the stress around striving to publish their research papers eventually, and the burning question of how many hours of sleep students usually get. Rojina also somewhat tries to answer the question, &quot;How many years are left to complete your Ph.D.?&quot; a question that I discovered Ph.D. students pray nobody asks them. Additionally, we go over the existing belief of &quot;Publish or Perish&quot; in academia and its impact on academic integrity in the long run.&lt;br&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;---------------------------------------&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;br&gt;
+Host Update:&lt;/strong&gt; A month after recording the episode, Rojina Shrestha met a tragic and untimely demise in a plane crash when she was visiting Nepal during the summer break. I was fortunate to record the episode and hope her cheerful voice provides solace to all listeners who knew her closely. We would never have felt ready to say goodbye to someone as special as Rojina, but this timing feels especially tough.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:01:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2638102/2638102-1573967843109-5aab8f2cc7049.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 11: Switching Career After Completing Masters In Economics To Become a Professional Writer]]></title>
+			<description><![CDATA[<p>Shambhavi Basnet joins from Kathmandu, Nepal, to talk about her recent career switch when she completed her Master's Degree in Development Economics from Germany to become a Professional Writer, a field she had no prior education experience. We talk about the challenges she faced in making the switch, the regrets as to why she did not have the thought after her Bachelor's sooner, and how she is enjoying the new lifestyle. Shambhavi also gives insights into her writing process and discusses her upcoming debut book. &nbsp;</p>
+<p><strong>Shambhavi's works can be read at:</strong> <a href="https://linktr.ee/shambhavi.basnet" target="_blank">https://linktr.ee/shambhavi.basnet</a>.</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-11-Switching-Career-After-Completing-Masters-In-Economics-To-Become-a-Professional-Writer-e1hm0ip</link>
+			<guid isPermaLink="false">ef7fd24d-0bc8-4d57-93df-6653876ba8ff</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Tue, 26 Apr 2022 02:33:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/51101721/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-26%2F9cd4ac9d-7975-781f-ae94-71dac76acce5.mp3" length="149090452" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Shambhavi Basnet joins from Kathmandu, Nepal, to talk about her recent career switch when she completed her Master&apos;s Degree in Development Economics from Germany to become a Professional Writer, a field she had no prior education experience. We talk about the challenges she faced in making the switch, the regrets as to why she did not have the thought after her Bachelor&apos;s sooner, and how she is enjoying the new lifestyle. Shambhavi also gives insights into her writing process and discusses her upcoming debut book. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shambhavi&apos;s works can be read at:&lt;/strong&gt; &lt;a href=&quot;https://linktr.ee/shambhavi.basnet&quot; target=&quot;_blank&quot;&gt;https://linktr.ee/shambhavi.basnet&lt;/a&gt;.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:02:07</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2638102/2638102-1573967843109-5aab8f2cc7049.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 10: Cybersecurity, Password Manager and MFA]]></title>
+			<description><![CDATA[<p>Prajjwal Dangal joins from Colorado Springs, CO, USA, to discuss his love for Cybersecurity, the field he just completed a Master's Degree in. We touch on crucial topics in the vast area and reveal why everyone needs to take the security aspects of their digital lives more seriously. We delve deep into discussions around using Password Manager for hundreds of sites we use every day and enabling MultiFactorAuthentication (MFA) for all of our applications, two of the most important habits to embrace in this digital world.</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-10-Cybersecurity--Password-Manager-and-MFA-e1hg8dh</link>
+			<guid isPermaLink="false">2c2e23be-21df-417b-9953-613fae34dee1</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Thu, 21 Apr 2022 22:29:18 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/50913137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-21%2Fdb1bbef1-65ec-e336-6a5e-5d0ed6bcbbf4.mp3" length="117068954" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Prajjwal Dangal joins from Colorado Springs, CO, USA, to discuss his love for Cybersecurity, the field he just completed a Master&apos;s Degree in. We touch on crucial topics in the vast area and reveal why everyone needs to take the security aspects of their digital lives more seriously. We delve deep into discussions around using Password Manager for hundreds of sites we use every day and enabling MultiFactorAuthentication (MFA) for all of our applications, two of the most important habits to embrace in this digital world.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:48:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2638102/2638102-1573967843109-5aab8f2cc7049.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 9: Leaving American Dream to Establish a Company in Nepal]]></title>
+			<description><![CDATA[<p>Sharthak Neupane joins from Kathmandu as he talks about his story of leaving the American dream just three days after his graduation to return to Nepal and establish RB Merchant Pvt Ltd in Baneshwor, Kathmandu. The company supplies medical equipment to hospitals around the country. Worth noting is that Sharthak did not have any knowledge of medical equipment before starting his journey. He shares the experience of leaving the comfort of the first world country to return to his homeland, where he has implemented a progressive approach in handling his company.</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-9-Leaving-American-Dream-to-Establish-a-Company-in-Nepal-ej7rih</link>
+			<guid isPermaLink="false">3285c322-acee-463c-acf9-e2f8008a98c8</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Sun, 06 Sep 2020 23:40:33 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/19180561/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-6%2F80d27f05-1adb-d423-ad73-7393655b2916.mp3" length="173770527" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Sharthak Neupane joins from Kathmandu as he talks about his story of leaving the American dream just three days after his graduation to return to Nepal and establish RB Merchant Pvt Ltd in Baneshwor, Kathmandu. The company supplies medical equipment to hospitals around the country. Worth noting is that Sharthak did not have any knowledge of medical equipment before starting his journey. He shares the experience of leaving the comfort of the first world country to return to his homeland, where he has implemented a progressive approach in handling his company.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:12:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2638102/2638102-1573967844417-28d79b44e04c2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 8: Conversations with My Mathematics Teacher Mr Parshu Narayan Chaudhary]]></title>
+			<description><![CDATA[<p>Season 2 of Manasbi Chautaari kicks off with a conversation with my Mathematics Teacher, <strong>Mr. Parshu Narayan Chaudhary</strong>, who has been teaching Mathematics for Grade 5 to A-Level students in my alma mater, Budhanilkantha School, since 2007. We delve deep into his 24 years of a teaching career, lessons learned in the process, why students find it hard to understand Mathematics fundamentals, and what Mr. Chaudhary has been doing to teach Mathematics to his students efficiently. Chaudhary sir shares hidden insights into what makes a teacher successful as well as uncovers his teaching history that all of his former and current students will find interesting.&nbsp;</p>
+<p>I would like to thank Princep Shah for contributing a lot of questions that have been asked in this episode.&nbsp;</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-8-Conversations-with-My-Mathematics-Teacher-Mr-Parshu-Narayan-Chaudhary-efabkc</link>
+			<guid isPermaLink="false">27cabd78-986c-47c0-8d30-d6aa8006d5c3</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Fri, 12 Jun 2020 03:03:10 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/15068236/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-12%2F81561063-16000-2-7d8dc42db6d1a.mp3" length="77112870" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Season 2 of Manasbi Chautaari kicks off with a conversation with my Mathematics Teacher, &lt;strong&gt;Mr. Parshu Narayan Chaudhary&lt;/strong&gt;, who has been teaching Mathematics for Grade 5 to A-Level students in my alma mater, Budhanilkantha School, since 2007. We delve deep into his 24 years of a teaching career, lessons learned in the process, why students find it hard to understand Mathematics fundamentals, and what Mr. Chaudhary has been doing to teach Mathematics to his students efficiently. Chaudhary sir shares hidden insights into what makes a teacher successful as well as uncovers his teaching history that all of his former and current students will find interesting.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;I would like to thank Princep Shah for contributing a lot of questions that have been asked in this episode.&amp;nbsp;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:04:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2638102/2638102-1573967843109-5aab8f2cc7049.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 7: Lessons from a Founder of Five Startups and Why Embracing Failure Culture was Necessary]]></title>
+			<description><![CDATA[<p>Today’s guest is the versatile (EJ) Vivek Pandey, who wears the hat of Entrepreneur, Nepali R&amp;B singer, and full-time Data Scientist. In this episode, he shares start-up experiences and provides valuable lessons for any budding entrepreneurs. Vivek failed in his first two startups and carried over the lessons over the current startups that include Veniqa.com, Qarece.com, and Hackwears.com. He can be found on Spotify under the name “V-Seven Beatz” and his website at <a href="http://www.viveckh.com/">www.viveckh.com</a></p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-7-Lessons-from-a-Founder-of-Five-Startups-and-Why-Embracing-Failure-Culture-was-Necessary-eao7dq</link>
+			<guid isPermaLink="false">e7d662a0-3deb-4155-ae74-64e5f77f57d8</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Mon, 10 Feb 2020 04:06:41 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/10279802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-10%2F47602750-16000-1-1b7339092c1e2.mp3" length="83353227" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Today’s guest is the versatile (EJ) Vivek Pandey, who wears the hat of Entrepreneur, Nepali R&amp;amp;B singer, and full-time Data Scientist. In this episode, he shares start-up experiences and provides valuable lessons for any budding entrepreneurs. Vivek failed in his first two startups and carried over the lessons over the current startups that include Veniqa.com, Qarece.com, and Hackwears.com. He can be found on Spotify under the name “V-Seven Beatz” and his website at &lt;a href=&quot;http://www.viveckh.com/&quot;&gt;www.viveckh.com&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:09:27</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2638102/2638102-1573967844417-28d79b44e04c2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 6: Exploring Dolpa Trekking Route]]></title>
+			<description><![CDATA[<p>Sagyan Malla joins as today's guest from Kathmandu as he details the trekking route that his agency, Mount Putha (www.mountputha.com, Instagram handle: nepal.traveler), runs in the Dolpa region. The longest trip takes about 27 days and travelers take the route from Nepalgunj, Juphal, Phoksundo, Upper Dolpa region and then cross into Lo Manthang, Jomsom and end in Pokhara. We explore the less-traveled route and provide with all the information you need to make Dolpa as your next trip. As part of Visit Nepal 2020, I really want to encourage adventure seekers to venture to this remote region rather than the usual popular tourist places.</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-6-Exploring-Dolpa-Trekking-Route-eae7sl</link>
+			<guid isPermaLink="false">170af65b-8cac-4853-b873-df4875457b3f</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Sun, 26 Jan 2020 04:15:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/9952597/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-26%2F45194420-16000-1-8d54b56dd80a3.mp3" length="52562197" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Sagyan Malla joins as today&apos;s guest from Kathmandu as he details the trekking route that his agency, Mount Putha (www.mountputha.com, Instagram handle: nepal.traveler), runs in the Dolpa region. The longest trip takes about 27 days and travelers take the route from Nepalgunj, Juphal, Phoksundo, Upper Dolpa region and then cross into Lo Manthang, Jomsom and end in Pokhara. We explore the less-traveled route and provide with all the information you need to make Dolpa as your next trip. As part of Visit Nepal 2020, I really want to encourage adventure seekers to venture to this remote region rather than the usual popular tourist places.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:43:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2638102/2638102-1573967844417-28d79b44e04c2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 5: From Hating Teaching Profession to Being Loved as a Teacher in Dolpa]]></title>
+			<description><![CDATA[<p>My school friend Hrishav Bhattarai joins in from Kathmandu as he chronicles his lifechanging experience as a teacher when he taught kids for six months in the remote place of Nijal in Dolpa district. The school is located at an altitude of 3860m above sea level and is just six hours walk from the Tibetan border. Hrishav discusses the hardships of teaching in a language he hardly knew, how his hatred towards the teaching profession turned into advocating everyone to be a teacher and how such experiences have affected his outlook in his life.</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-5-From-Hating-Teaching-Profession-to-Being-Loved-as-a-Teacher-in-Dolpa-e9vnh1</link>
+			<guid isPermaLink="false">cc62f12b-bcfb-449c-a189-eea096f50345</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Sat, 04 Jan 2020 04:23:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/9477089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-4%2F41898977-16000-1-8971fed9bd566.mp3" length="62462759" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;My school friend Hrishav Bhattarai joins in from Kathmandu as he chronicles his lifechanging experience as a teacher when he taught kids for six months in the remote place of Nijal in Dolpa district. The school is located at an altitude of 3860m above sea level and is just six hours walk from the Tibetan border. Hrishav discusses the hardships of teaching in a language he hardly knew, how his hatred towards the teaching profession turned into advocating everyone to be a teacher and how such experiences have affected his outlook in his life.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:52:03</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2638102/2638102-1573967844417-28d79b44e04c2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 4: Wastewater Treatment]]></title>
+			<description><![CDATA[<p>My high school friend Nimesh Poudel joins me from Delhi where he is currently working as a Chemical Engineer in a wastewater treatment plant. Nimesh dissects the procedures, challenges, and answers common questions about wastewater treatment. Later, we talk about the current situation and setting up treatment plants in a developing country like Nepal where initial costs may be a challenge.&nbsp;</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-4-Wastewater-Treatment-e9ikig</link>
+			<guid isPermaLink="false">2aa16586-4f13-e154-70b1-0f701707cdf1</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Tue, 17 Dec 2019 03:24:41 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/9048080/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-17%2F39063446-16000-1-7ef65f4b85188.mp3" length="34375210" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;My high school friend Nimesh Poudel joins me from Delhi where he is currently working as a Chemical Engineer in a wastewater treatment plant. Nimesh dissects the procedures, challenges, and answers common questions about wastewater treatment. Later, we talk about the current situation and setting up treatment plants in a developing country like Nepal where initial costs may be a challenge.&amp;nbsp;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:28:38</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2638102/2638102-1573967844417-28d79b44e04c2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 3: Kinase and Evolution of Protein Family]]></title>
+			<description><![CDATA[<p>Today, I am joined by my guest Safal Shrestha who is pursuing his Ph.D. on <strong>Evolution of Protein Family</strong> especially the protein <strong>Kinase</strong>. In the episode, Safal provides insight into what is Kinase and why should his research matter to the general people. We dive deep into Kinase while keeping the explanations concise. In the end, you will be convinced how Kinase has been playing an important role in all our lives.&nbsp;</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-3-Kinase-and-Evolution-of-Protein-Family-e9f4au</link>
+			<guid isPermaLink="false">dc29539d-066f-bb93-42eb-2d1c6ca9888f</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Wed, 11 Dec 2019 03:41:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/8933150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-11%2F37912192-16000-1-e74c3add327b.mp3" length="32837357" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Today, I am joined by my guest Safal Shrestha who is pursuing his Ph.D. on &lt;strong&gt;Evolution of Protein Family&lt;/strong&gt; especially the protein &lt;strong&gt;Kinase&lt;/strong&gt;. In the episode, Safal provides insight into what is Kinase and why should his research matter to the general people. We dive deep into Kinase while keeping the explanations concise. In the end, you will be convinced how Kinase has been playing an important role in all our lives.&amp;nbsp;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:27:21</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2638102/2638102-1573967844417-28d79b44e04c2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 2: Menstrual Cups and Why Females Should Use Them More]]></title>
+			<description><![CDATA[<p>In the second episode, I am joined by my guest Yangzum Waiba. We talk about the rise of menstrual cups and Yangzum helps me disseminate knowledge about this great female hygiene product. Menstrual cups are better products than safety pads both in terms of cost and environment sustainability.&nbsp;</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-2-Menstrual-Cups-and-Why-Females-Should-Use-Them-More-e9aur4</link>
+			<guid isPermaLink="false">31ce0f28-dac7-0e63-68f1-ab195d67dbaa</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Wed, 04 Dec 2019 03:23:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/8796452/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-4%2F36549548-16000-1-c82ced98b5823.mp3" length="27856172" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In the second episode, I am joined by my guest Yangzum Waiba. We talk about the rise of menstrual cups and Yangzum helps me disseminate knowledge about this great female hygiene product. Menstrual cups are better products than safety pads both in terms of cost and environment sustainability.&amp;nbsp;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:23:12</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2638102/2638102-1573967844417-28d79b44e04c2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 1: Influence of One Piece]]></title>
+			<description><![CDATA[<p>In the inaugural episode, I am joined by my guest Princep Shah. Both of us share an immense passion towards One Piece and are die-hard fans of the fourth highest-selling comic of all time trailing only to Superman, Batman, and Spiderman. We talk about the influence One Piece has had in our lives and try to convince listeners to get into the worldwide phenomenon.</p>
+]]></description>
+			<link>https://anchor.fm/manasbichautaari/episodes/Episode-1-Influence-of-One-Piece-e97eiq</link>
+			<guid isPermaLink="false">b8c89185-2d46-0c6b-1e37-411c3c469a09</guid>
+			<dc:creator><![CDATA[Manasbi Parajuli]]></dc:creator>
+			<pubDate>Wed, 27 Nov 2019 04:23:06 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10520318/podcast/play/8681498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-27%2F35826597-16000-1-43fcbc5eff9b.mp3" length="45562157" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;In the inaugural episode, I am joined by my guest Princep Shah. Both of us share an immense passion towards One Piece and are die-hard fans of the fourth highest-selling comic of all time trailing only to Superman, Batman, and Spiderman. We talk about the influence One Piece has had in our lives and try to convince listeners to get into the worldwide phenomenon.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:37:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2638102/2638102-1573967843109-5aab8f2cc7049.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
