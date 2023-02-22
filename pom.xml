@@ -218,6 +218,7 @@
                     <nonFilteredFileExtensions>
                         <nonFilteredFileExtension>jpeg</nonFilteredFileExtension>
                         <nonFilteredFileExtension>jpg</nonFilteredFileExtension>
+                        <nonFilteredFileExtension>txt</nonFilteredFileExtension>
                     </nonFilteredFileExtensions>
                 </configuration>
             </plugin>
