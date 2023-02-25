@@ -1,5 +1,24 @@
 # Manasbi Chautaari API
 
+## Table Of Contents
+
+* [Introduction](#introduction)
+* [Environment Variables](#environment-variables)
+* [Run Locally](#run-locally)
+* [Installation](#installation)
+* [Swagger Documentation](#swagger-documentation)
+* [API Reference](#api-reference)
+    - [Get metadata about the podcast channel](#get-metadata-about-the-podcast-channel)
+    - [Get details about the podcast episodes](#get-details-about-the-podcast-episodes)
+* [Actuators](#actuators)
+* [Code Coverage](#code-coverage)
+* [Deployment](#deployment)
+* [Authors](#authors)
+* [Contributing](#contributing)
+* [Feedback](#feedback)
+
+## Introduction
+
 Manasbi Chautaari is a podcast that I founded and host on Anchor platform. Although the podcast is already available on
 different popular platforms such as Spotify, Apple Podcasts and Google Podcasts, as a Software Developer, I
 wanted to experiment with my podcast RSS feed and tailor to my needs either via a web application, mobile app or even
@@ -84,6 +103,17 @@ at ```{domain}/api/v1/swagger-ui/index.html```
 The project has configured actuators using Spring Actuator and only exposes the following endpoints: health, info. The
 endpoints can be accessed at ```{domain}/actuator/{endpoint}```
 
+## Code Coverage
+
+The project uses Jacoco plugin to generate code coverage. Locations for coverage report can be found as below:
+
+- In binary format: `target/jacoco.exec`
+- In readable formats such as XML, CSV and HTML `target/site/jacoco/index.html`
+
+## Deployment
+
+Application has been deployed to Heroku with automatic deployments from master branch.
+
 ## Authors
 
 - [@manasbiparajuli](https://www.github.com/manasbiparajuli)
@@ -100,4 +130,4 @@ Please adhere to this project's [code of conduct](CODE_OF_CONDUCT.md).
 
 If you have any feedback, please open a GitHub issue and I will respond to it.
 
-![Manasbi Chautaari Logo](src/main/resources-nonfiltered/manasbi-chautaari-logo.jpeg)
+<img src="src/main/resources-nonfiltered/manasbi-chautaari-logo.jpeg" width="1200" height="350" alt="Manasbi Chautaari Podcast">
