@@ -16,7 +16,7 @@
     <properties>
         <activation.version>1.1.1</activation.version>
         <git-commit-id-maven-plugin.version>5.0.0</git-commit-id-maven-plugin.version>
-        <guava.version>31.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <istack-commons-runtime.version>3.0.12</istack-commons-runtime.version>
         <jackson-dataformat-xml.version>2.14.1</jackson-dataformat-xml.version>
         <jacoco-maven-plugin.version>0.8.8</jacoco-maven-plugin.version>
